@@ -164,3 +164,7 @@ li + li {
   /* top: 50%; */
   /* right: 20%; */
 }
+
+.animate__animated.heartBeat {
+  --animate-delay: 0.9s;
+}
