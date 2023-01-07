@@ -34,3 +34,10 @@
         top: 12%;
     }
 }
+
+@media screen and (min-width: 1550px){
+    .creations-div {
+        left: 39%;
+        top: 25rem;
+    }
+}

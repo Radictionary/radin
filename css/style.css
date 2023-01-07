@@ -156,6 +156,7 @@ li + li {
 }
 
 .creations-title {
+  margin-top: 3rem;
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 2.5rem;
