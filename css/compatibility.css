@@ -4,19 +4,19 @@
   }
 
 @media screen and (max-width: 1090px) {
-    .me-div {
+    /* .me-div {
         visibility:hidden;
     }
     .creationsbox {
         visibility: hidden;
-    }
+    } */
 
-    .creations-div {
+    /* .creations-div {
         position: absolute;
         top: 35%;
         left: 1%;
         padding-right: 0.1rem;
-      }
+      } */
 }
 @media screen and (max-width: 500px) {
     #text1 {
@@ -36,8 +36,8 @@
 }
 
 @media screen and (min-width: 1550px){
-    .creations-div {
+    /* .creations-div {
         left: 39%;
         top: 25rem;
-    }
+    } */
 }
