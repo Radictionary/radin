@@ -10,6 +10,10 @@
   .creationsbox {
     visibility: hidden;
   }
+  .tools_section {
+    margin-top: 1rem;
+    padding: 1rem;
+  }
 }
 
 @media screen and (max-width: 500px) {
