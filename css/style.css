@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
+
 body {
   height: 100vh;
   background-image: linear-gradient(
@@ -18,7 +20,7 @@ body {
   top: 10%;
   left: 5%;
   width: 80%;
-  height: 65%;
+  height: 70%;
   padding: 5%;
   border-top-left-radius: 1rem;
   border-top-right-radius: 1rem;
@@ -41,7 +43,7 @@ body {
 
 .icon-div {
   position: relative;
-  top: 10%;
+  top: 5%;
   /* left: 20%; */
 }
 
@@ -68,6 +70,9 @@ body {
   text-decoration: underline;
   color: rgb(0, 0, 0);
   font-weight: bolder;
+  position: absolute;
+  bottom: 17rem;
+  left: -2rem;
 }
 
 .creations2 {
@@ -173,4 +178,13 @@ li + li {
   justify-content: center;
   align-items: center;
   /* height: 500px; */
+}
+
+.tools {
+  font-size: 1.5rem;
+  font-family: 'Golos Text', sans-serif;
+}
+
+.tools_section {
+  padding: 5rem;
 }
