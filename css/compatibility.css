@@ -14,10 +14,7 @@
     margin-top: 1rem;
     padding: 1rem;
   }
-  .box {
-    height: 90%;
-    top: 5%;
-  }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -32,7 +29,7 @@
     padding: 0 3rem;
   }
   .box {
-    height: 90%;
+    height: 80%;
     top: 5%;
   }
 }
