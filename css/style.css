@@ -8,7 +8,6 @@ body {
   );
   text-align: center;
   position: relative;
-  margin: auto;
 }
 
 .box {
@@ -17,7 +16,7 @@ body {
     rgba(0, 0, 0, 0.508)
   );
   position: absolute;
-  top: 10%;
+  top: 8%;
   left: 5%;
   width: 80%;
   height: 70%;
@@ -57,11 +56,11 @@ body {
 }
 
 .me-div {
-  position: relative;
-  top: 35%;
-  right: 47%;
+  position: absolute;
+  bottom: -10rem;
+  left: 5rem;
   display: inline-block;
-  border-radius: 1rem;
+  /* border-radius: 1rem; */
 }
 
 .creations {
@@ -71,8 +70,8 @@ body {
   color: rgb(0, 0, 0);
   font-weight: bolder;
   position: absolute;
-  bottom: 17rem;
-  left: -2rem;
+  bottom: 0.1rem;
+  left: 1rem;
 }
 
 .creations2 {
