@@ -10,11 +10,23 @@
   .creationsbox {
     visibility: hidden;
   }
+  .creations {
+    visibility: hidden;
+  }
   .tools_section {
     margin-top: 1rem;
     padding: 1rem;
   }
+  .icon {
+    font-size: 2.4rem;
+  }
+}
 
+@media screen and (max-width: 1082px) {
+  .creations {
+    position: absolute;
+    bottom: 3rem;
+  }
 }
 
 @media screen and (max-width: 500px) {
